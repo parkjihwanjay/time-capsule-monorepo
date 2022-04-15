@@ -1,0 +1,9 @@
+{
+  "editor.formatOnSave": true,
+  "eslint.enalbe": true,
+  "solidity.formatter": "prettier", // This is the default so it might be missing.
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "[solidity]": {
+    "editor.defaultFormatter": "JuanBlanco.solidity"
+  }
+}
